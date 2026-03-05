@@ -1,0 +1,2 @@
+{"instruction": "Calculate 25 * 4", "output": "Thought: I need to multiply two numbers. Action: <tool_call> {'name': 'multiply', 'args': {'a': 25, 'b': 4}}"}
+{"instruction": "What is 100 + 50?", "output": "Thought: I need to add two numbers. Action: <tool_call> {'name': 'add', 'args': {'a': 100, 'b': 50}}"}
